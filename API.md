@@ -18,11 +18,11 @@ Returns indexer status and uptime.
 
 ---
 
-## Blumepad (Token Launchpad)
+## BlumePad (Token Launchpad)
 
 ### `GET /pad/tokens`
 
-List all Blumepad tokens.
+List all BlumePad tokens.
 
 **Query parameters:**
 
@@ -251,7 +251,7 @@ Subscribe to real-time events by sending JSON messages.
 
 | Channel | Required params | Description |
 |---------|----------------|-------------|
-| `pad` | — | All Blumepad events (trades, launches, graduations) |
+| `pad` | — | All BlumePad events (trades, launches, graduations) |
 | `pad_token` | `address` | Events for a specific token |
 | `bridge` | — | All bridge relay events |
 | `bridge_user` | `address` | Bridge events for a specific wallet |

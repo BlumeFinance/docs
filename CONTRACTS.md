@@ -15,7 +15,7 @@ Explorer: [explorer.xrplevm.org](https://explorer.xrplevm.org)
 | Factory | [`0x0F0F367e1C407C28821899E9bd2CB63D6086a945`](https://explorer.xrplevm.org/address/0x0F0F367e1C407C28821899E9bd2CB63D6086a945) |
 | Router | [`0x3a5FF5717fCa60b613B28610A8Fd2E13299e306C`](https://explorer.xrplevm.org/address/0x3a5FF5717fCa60b613B28610A8Fd2E13299e306C) |
 
-### Blumepad (Token Launchpad)
+### BlumePad (Token Launchpad)
 
 | Contract | Address |
 |----------|---------|
@@ -41,7 +41,7 @@ Explorer: [explorer.testnet.xrplevm.org](https://explorer.testnet.xrplevm.org)
 | Factory | [`0xa67Dfa5C47Bec4bBbb06794B933705ADb9E82459`](https://explorer.testnet.xrplevm.org/address/0xa67Dfa5C47Bec4bBbb06794B933705ADb9E82459) |
 | Router | [`0xC17E3517131E7444361fEA2083F3309B33a7320A`](https://explorer.testnet.xrplevm.org/address/0xC17E3517131E7444361fEA2083F3309B33a7320A) |
 
-### Blumepad (Token Launchpad)
+### BlumePad (Token Launchpad)
 
 | Contract | Address |
 |----------|---------|
@@ -68,5 +68,5 @@ Explorer: [explorer.testnet.xrplevm.org](https://explorer.testnet.xrplevm.org)
 
 - All contracts are verified on Blockscout — ABIs are available directly from the explorer.
 - BlumeLend is testnet-only. Mainnet deployment is pending.
-- Blumepad tokens are ERC-20 with bonding curve mechanics. After graduation, they trade on BlumeSwap like any other token.
+- BlumePad tokens are ERC-20 with bonding curve mechanics. After graduation, they trade on BlumeSwap like any other token.
 - BlumeSwap Router wraps/unwraps native XRP automatically via `*ETH` method variants (e.g., `swapExactETHForTokens`).

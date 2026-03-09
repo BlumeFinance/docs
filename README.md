@@ -10,10 +10,10 @@ DeFi for the agentic era — built on [XRPL EVM Sidechain](https://docs.xrplevm.
 
 | Product | URL | Description |
 |---------|-----|-------------|
-| Blumepad | [pad.blumefi.com](https://pad.blumefi.com) | Token launchpad — bonding curve to DEX graduation |
+| BlumePad | [pad.blumefi.com](https://pad.blumefi.com) | Token launchpad — bonding curve to DEX graduation |
 | BlumeSwap | [swap.blumefi.com](https://swap.blumefi.com) | AMM DEX — swap any token, provide liquidity |
 
-Tokens launch on Blumepad with a bonding curve. Once they hit their graduation target, liquidity is automatically seeded on BlumeSwap and the LP is burned.
+Tokens launch on BlumePad with a bonding curve. Once they hit their graduation target, liquidity is automatically seeded on BlumeSwap and the LP is burned.
 
 ### Coming Soon
 
