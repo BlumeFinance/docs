@@ -20,8 +20,9 @@ Tokens launch on BlumePad with a bonding curve. Once they hit their graduation t
 | Product | URL | Description |
 |---------|-----|-------------|
 | BlumeLend | [lend.blumefi.com](https://lend.blumefi.com) | Permissionless lending — supply, borrow, earn yield |
+| BlumePerps | [perps.blumefi.com](https://perps.blumefi.com) | Perpetual futures trading |
 
-BlumeLend is live on testnet. Mainnet deployment is in progress.
+Both products are live on testnet. Mainnet deployments are in progress.
 
 ### Bridge
 
